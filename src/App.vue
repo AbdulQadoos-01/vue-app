@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="This is vue deployment"/>
+  <HelloWorld msg="This deployment of Vue-app"/>
 </template>
 
 <script>
